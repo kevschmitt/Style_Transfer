@@ -36,4 +36,4 @@ Then the webpage should open in your default web browser, or you can go to http:
 get to the website. 
 
 # Use Application
-Input two images (they have to have the same exact size), click combine and wait ~15-25 Mins for the combined image to pop up.
+Input two images (they should be the same exact size for best results), click combine and wait ~15-25 Mins for the combined image to pop up.
