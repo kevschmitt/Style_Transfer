@@ -37,3 +37,7 @@ get to the website.
 
 # Use Application
 Input two images (they should be the same exact size for best results), click combine and wait ~15-25 Mins for the combined image to pop up.
+
+# Sources
+https://arxiv.org/pdf/1508.06576.pdf
+https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
